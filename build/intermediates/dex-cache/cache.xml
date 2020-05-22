@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Android\adt-bundle-windows-x86_64\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\hasee\Desktop\Chemistry\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_0f2ce54b6c441d3f96a276985b7305c4f4cefca0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hasee\Desktop\Chemistry\app\libs\Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="41d57a73e39cc4f881f7409fb36d82373706a3b1">
+        <dex dex="C:\Users\hasee\Desktop\Chemistry\app\build\intermediates\pre-dexed\debug\Vuforia_5f68392542ffe56d0d2f1104634858aaffe87519.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\14201\\Desktop\\paper\\project\\Chemistry\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\Users\\14201\\Desktop\\paper\\project\\Chemistry\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\14201\\Desktop\\paper\\project\\Chemistry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\14201\\Desktop\\paper\\project\\Chemistry\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\14201\\Desktop\\paper\\project\\Chemistry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "C:\\Users\\14201\\Desktop\\paper\\project\\Chemistry\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\14201\\Desktop\\paper\\project\\Chemistry\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\Users\\14201\\Desktop\\paper\\project\\Chemistry\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\14201\\Desktop\\paper\\project\\Chemistry\\app\\build\\intermediates\\res\\merged\\debug\\layout_splash_screen.xml.flat",
+        "source": "C:\\Users\\14201\\Desktop\\paper\\project\\Chemistry\\app\\src\\main\\res\\layout\\splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\14201\\Desktop\\paper\\project\\Chemistry\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\14201\\Desktop\\paper\\project\\Chemistry\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\14201\\Desktop\\paper\\project\\Chemistry\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon.png.flat",
+        "source": "C:\\Users\\14201\\Desktop\\paper\\project\\Chemistry\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\14201\\Desktop\\paper\\project\\Chemistry\\app\\build\\intermediates\\res\\merged\\debug\\layout_camera_overlay.xml.flat",
+        "source": "C:\\Users\\14201\\Desktop\\paper\\project\\Chemistry\\app\\src\\main\\res\\layout\\camera_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\14201\\Desktop\\paper\\project\\Chemistry\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vuforia_splash.png.flat",
+        "source": "C:\\Users\\14201\\Desktop\\paper\\project\\Chemistry\\app\\src\\main\\res\\drawable\\vuforia_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\14201\\Desktop\\paper\\project\\Chemistry\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_splash.jpg.flat",
+        "source": "C:\\Users\\14201\\Desktop\\paper\\project\\Chemistry\\app\\src\\main\\res\\drawable-mdpi\\splash.jpg"
+    },
+    {
+        "merged": "C:\\Users\\14201\\Desktop\\paper\\project\\Chemistry\\app\\build\\intermediates\\res\\merged\\debug\\raw_clickbutton.mp3.flat",
+        "source": "C:\\Users\\14201\\Desktop\\paper\\project\\Chemistry\\app\\src\\main\\res\\raw\\clickbutton.mp3"
+    },
+    {
+        "merged": "C:\\Users\\14201\\Desktop\\paper\\project\\Chemistry\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon.png.flat",
+        "source": "C:\\Users\\14201\\Desktop\\paper\\project\\Chemistry\\app\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    }
+]

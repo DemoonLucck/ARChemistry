@@ -1,0 +1,173 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.bn.ar.activity"
+4    android:versionCode="5"
+5    android:versionName="5.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml
+10
+11    <!--
+12        The application's compatibility with one or more versions of the Android
+13        platform.
+14
+15        android:minSdkVersion = application's required minimum API level to run
+16        android:targetSdkVersion = application's targeted API level
+17    -->
+18    <!-- <uses-sdk android:minSdkVersion="19" android:targetSdkVersion="19" /> -->
+19
+20    <uses-feature android:glEsVersion="0x00030000" />
+20-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:15:5-54
+20-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:15:19-51
+21
+22    <!--
+23         The application needs read/write of the sdcard in order to access
+24         user calibration data.
+25         访问SD卡的权限
+26    -->
+27    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+27-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:23:5-80
+27-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:23:22-78
+28    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+28-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:24:5-79
+28-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:24:22-77
+29
+30    <!--
+31         The application requires a camera.
+32
+33         NOTE: Any application that requests the CAMERA permission but does not
+34         declare any camera features with the <uses-feature> element will be
+35         assumed to use all camera features (auto-focus and flash). Thus, the
+36         application will not be compatible with devices that do not support
+37         all camera features. Please use <uses-feature> to declare only the
+38         camera features that your application does need. For instance, if you
+39         request the CAMERA permission, but you do not need auto-focus or
+40         flash, then declare only the android.hardware.camera feature. The
+41         other camera features that you do not request will no longer be
+42         assumed as required.
+43    -->
+44    <uses-feature android:name="android.hardware.camera" />
+44-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:40:5-60
+44-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:40:19-57
+45
+46<!--         Add this permission to get access to the camera. -->
+47    <uses-permission android:name="android.permission.CAMERA" />
+47-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:45:5-65
+47-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:45:22-62
+48
+49<!--         Add this permission to allow opening network sockets. -->
+50    <!-- 网络权限 -->
+51    <uses-permission android:name="android.permission.INTERNET" />
+51-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:51:5-66
+51-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:51:22-64
+52
+53    <!--
+54        Add this permission to check which network access properties (e.g.
+55        active type: 3G/WiFi).
+56    -->
+57    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+57-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:57:5-79
+57-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:57:22-76
+58
+59<!--         Add this permission to access WLAN MAC address. -->
+60    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+60-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:62:5-76
+60-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:62:22-73
+61
+62<!--         Add this permission to access HW ID. -->
+63    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+63-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:67:5-74
+63-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:67:22-72
+64
+65    <!--
+66      NOTE: The setting 'android:launchMode="singleTask"' makes sure
+67      that the activity can begin only one task and the device can hold only
+68      one instance of the activity at a time. However, it allows other
+69      activities to be part of its task (unlike the 'singleInstance' mode).
+70      It's at the root of the activity stack, but other activities (necessarily
+71      "standard" and "singleTop" activities) can be launched into the same task.
+72      If this attribute is not set, the default value 'standard' is used, which
+73      would allow the activity to be launched multiple times.
+74    -->
+75    <application
+75-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:79:5-130:19
+76        android:allowBackup="true"
+76-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:83:9-35
+77        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+77-->[com.android.support:support-compat:28.0.0] C:\Users\14201\.gradle\caches\transforms-2\files-2.1\f1491a81a65d4033a56d6549564e765e\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+78        android:debuggable="true"
+79        android:hardwareAccelerated="false"
+79-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:85:9-44
+80        android:icon="@drawable/icon"
+80-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:80:9-38
+81        android:label="@string/app_name"
+81-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:81:9-41
+82        android:launchMode="singleTask"
+82-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:82:9-40
+83        android:testOnly="true"
+84        android:theme="@style/SampleAppsTheme" >
+84-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:84:9-47
+85
+86        <!--
+87          NOTE: The values in 'android:configChanges' ensure that Android will 
+88          not destroy and re-create the activity when the user flips the 
+89          keyboard, changes the orientation of the device, or the actual or 
+90          physical screen resolution changes, but calls the Activity's 
+91          onConfigurationChanged() function instead.
+92
+93          NOTE 2: In order to prevent automatic reactions to orientation
+94          changes in addition to setting proper values for
+95          'android:configChanges', you also must explicitly specify the screen
+96          orientation used by the application, either by setting the attribute
+97          'android:screenOrientation' or in code by calling
+98          Activity.setRequestedOrientation().
+99        -->
+100        <!-- Splash Screen Activity -->
+101
+102        <activity
+102-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:105:9-116:20
+103            android:name="com.bn.ar.activity.StereoRendering"
+103-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:106:13-62
+104            android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
+104-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:107:13-93
+105            android:launchMode="singleTask"
+105-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:110:11-42
+106            android:theme="@style/DigitalEyewearTheme" >
+106-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:108:10-52
+107            <intent-filter>
+107-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:112:14-115:29
+108                <action android:name="android.intent.action.MAIN" />
+108-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:113:17-69
+108-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:113:25-66
+109
+110                <category android:name="android.intent.category.LAUNCHER" />
+110-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:114:17-77
+110-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:114:27-74
+111            </intent-filter>
+112        </activity>
+113
+114        <!--
+115            To support devices using the TI S3D library for stereo mode we must 
+116            add the following library.
+117            Devices that require this are: ODG X6 
+118        -->
+119        <uses-library
+119-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:123:9-76
+120            android:name="com.ti.s3d"
+120-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:123:23-48
+121            android:required="false" />
+121-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:123:49-73
+122
+123<!--             To support the ODG R7 in stereo mode we must add the following library. -->
+124        <uses-library
+124-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:128:9-92
+125            android:name="com.osterhoutgroup.api.ext"
+125-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:128:23-64
+126            android:required="false" />
+126-->C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:128:65-89
+127    </application>
+128
+129</manifest>

@@ -1,0 +1,119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:1:1-132:12
+INJECTED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:1:1-132:12
+INJECTED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:1:1-132:12
+INJECTED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:1:1-132:12
+INJECTED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:1:1-132:12
+INJECTED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:1:1-132:12
+INJECTED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:1:1-132:12
+	package
+		ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:2:5-33
+		INJECTED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:15:5-54
+	android:glEsVersion
+		ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:15:19-51
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:23:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:24:22-77
+uses-feature#android.hardware.camera
+ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:40:5-60
+	android:name
+		ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:40:19-57
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:45:5-65
+	android:name
+		ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:45:22-62
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:51:5-66
+	android:name
+		ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:51:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:57:5-79
+	android:name
+		ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:57:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:62:5-76
+	android:name
+		ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:62:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:67:5-74
+	android:name
+		ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:67:22-72
+application
+ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:79:5-130:19
+	android:label
+		ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:81:9-41
+	android:launchMode
+		ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:82:9-40
+	android:hardwareAccelerated
+		ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:85:9-44
+	android:icon
+		ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:80:9-38
+	android:allowBackup
+		ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:83:9-35
+	android:theme
+		ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:84:9-47
+activity#com.bn.ar.activity.StereoRendering
+ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:105:9-116:20
+	android:launchMode
+		ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:110:11-42
+	android:configChanges
+		ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:107:13-93
+	android:theme
+		ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:108:10-52
+	android:name
+		ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:106:13-62
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:112:14-115:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:113:17-69
+	android:name
+		ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:113:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:114:17-77
+	android:name
+		ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:114:27-74
+uses-library#com.ti.s3d
+ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:123:9-76
+	android:required
+		ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:123:49-73
+	android:name
+		ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:123:23-48
+uses-library#com.osterhoutgroup.api.ext
+ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:128:9-92
+	android:required
+		ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:128:65-89
+	android:name
+		ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml:128:23-64
+uses-sdk
+INJECTED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\14201\Desktop\paper\project\Chemistry\app\src\main\AndroidManifest.xml

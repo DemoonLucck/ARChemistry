@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="O2" size="300.000000 300.000000" />
+    <ImageTarget name="HCl" size="300.000000 300.000000" />
+    <ImageTarget name="H2O" size="300.000000 300.000000" />
+    <ImageTarget name="H2" size="300.000000 300.000000" />
+    <ImageTarget name="CO2" size="300.000000 300.000000" />
+    <ImageTarget name="CH4O" size="300.000000 300.000000" />
+    <ImageTarget name="CH4" size="300.000000 300.000000" />
+    <ImageTarget name="CH2O2" size="300.000000 300.000000" />
+    <ImageTarget name="C2H4" size="300.000000 300.000000" />
+    <ImageTarget name="C2H2" size="300.000000 300.000000" />
+    <ImageTarget name="Research" size="300.000000 300.000000" />
+    <ImageTarget name="Ucuvette" size="300.000000 300.000000" />
+    <ImageTarget name="TubeRack" size="300.000000 300.000000" />
+    <ImageTarget name="ThreeGuideTube" size="300.000000 300.000000" />
+    <ImageTarget name="SpiritLamp" size="300.000000 300.000000" />
+    <ImageTarget name="RoundFlask" size="300.000000 300.000000" />
+    <ImageTarget name="OrdinaryFunnel" size="300.000000 300.000000" />
+    <ImageTarget name="LiquidFunnel" size="300.000000 300.000000" />
+    <ImageTarget name="EvaporatingDish" size="300.000000 300.000000" />
+    <ImageTarget name="DropPlate" size="300.000000 300.000000" />
+    <ImageTarget name="Drier" size="300.000000 300.000000" />
+    <ImageTarget name="Cylinder" size="300.000000 300.000000" />
+    <ImageTarget name="Cup" size="300.000000 300.000000" />
+    <ImageTarget name="CultureDish" size="300.000000 300.000000" />
+    <ImageTarget name="ConicalFlask" size="300.000000 300.000000" />
+  </Tracking>
+</QCARConfig>

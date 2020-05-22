@@ -1,0 +1,1 @@
+﻿01|ConicalFlask|02|CultureDish|03|Cup|04|Cylinder|05|Drier|06|DropPlate|07|EvaporatingDish|08|LiquidFunnel|09|OrdinaryFunnel|10|Research|11|RoundFlask|12|SpiritLamp|13|ThreeGuideTube|14|TubeRack|15|Ucuvette|16|SpiritLampLine|17|SpiritLampTop|
